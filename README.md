@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## -Rails
+### - - Blogger Tutorial
+Following the [Jumpstart Lab](http://tutorials.jumpstartlab.com/projects/blogger.html) tutorial, I created a blog with commenting, tagging and authentication functionality. I may revisit in the future to polish up and use for personnal projects.
+This was the project for Web Development 101 - Web Development Frameworks, part of [The Odin Project](https://www.theodinproject.com).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Source](https://github.com/DavidWatkinCode/blogger) - [View in browser](https://whispering-harbor-45352.herokuapp.com/)
